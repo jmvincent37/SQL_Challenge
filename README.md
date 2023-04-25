@@ -32,6 +32,6 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 
 ### External Resources
-For this assigment, I used the following websites to help me complete the assignment:
+I used the following websites to help me complete the assignment:
   * https://www.w3schools.com
   * https://stackoverflow.com
